@@ -1,0 +1,88 @@
+
+/* all applyed tag */
+*{
+    color: darkgreen;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+           /* div parent 1 of first */
+#div1{
+    background-color: rgb(168, 252, 224);
+    padding: 20px;
+}
+                 /* first heading of tours first parent div */
+#heading_div_1{
+    
+    text-align: center;
+}    
+                        /* paragraph of first div */
+.para1{
+    text-align: center;
+}           
+                          /* div of search input  */
+#input_1{
+    background-color:  rgb(222, 255, 244);
+    margin: 0px auto;
+    padding: 10px;
+    border-radius: 10px;
+    height: 30px;
+    width: 300px;
+    display: block;
+}
+                            /* second  parent div */
+#pdiv_2{
+    margin-top: 20px;
+    padding: 20px;
+    background-color: bisque;   
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+                                /* first table div */
+#first_table{
+    width: 350px;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: rgb(168, 252, 224);
+}
+                            /* second table div  */
+#second_table{
+    width: 350px;
+
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: rgb(168, 252, 224);
+
+}
+                            /* table 2 */
+#table_2{
+    border-spacing: 20px;
+}
+                    /* table 1 */
+#table_1{
+    border-spacing: 20px;
+}
+                    /* first of flex div */
+#pdiv_3_flex{
+        margin-top: 20px;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        background-color: blanchedalmond;
+
+}     
+                    
+                        /* /* iamges divs */
+.image{
+    width: 250px;
+    height: 200px;
+    border-radius: 20px;
+    
+}
+
+                                /* child div */
+.box{
+    padding: 20px;
+}                                                            
